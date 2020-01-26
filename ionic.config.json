@@ -1,5 +1,7 @@
 {
   "name": "februaryDesign",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
